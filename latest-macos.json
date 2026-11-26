@@ -1,13 +1,13 @@
 {
-  "version": "1.0.12",
-  "notes": "إضافة التحديث من داخل التطبيق للتحديثات القادمة بدون متصفح أو حساب. التثبيت هذه المرة يدوي مرة واحدة والنسخة غير موقعة؛ التثبيت التلقائي على macOS بانتظار التحقق الفعلي على جهاز ماك. يشمل إصلاحات 1.0.11 (الاتجاهات، الخطوط، الكتاب المقدس بدون إنترنت).",
+  "version": "1.0.16",
+  "notes": "نسخة أصغر حجما: الكتاب المقدس مضغوط ويعمل بدون إنترنت كالعادة، وحذف اللغات الزائدة. تشمل وضع الخلفية الاختياري (مغلق افتراضيا). التثبيت التلقائي على ويندوز وماك ما زال بانتظار التحقق الفعلي على جهاز حقيقي.",
   "url": {
-    "x64": "https://github.com/abr429701-oss/coptic-khmi-updates/releases/download/v1.0.12/Coptic-Khmi-1.0.12-mac-x64.zip",
-    "arm64": "https://github.com/abr429701-oss/coptic-khmi-updates/releases/download/v1.0.12/Coptic-Khmi-1.0.12-mac-arm64.zip"
+    "x64": "https://github.com/abr429701-oss/coptic-khmi-updates/releases/download/v1.0.16/Coptic-Khmi-1.0.16-mac-x64.zip",
+    "arm64": "https://github.com/abr429701-oss/coptic-khmi-updates/releases/download/v1.0.16/Coptic-Khmi-1.0.16-mac-arm64.zip"
   },
   "sha256": {
-    "x64": "21312198776335f047f426dc95dc3ced73d2446830d4c6385e8f3503fce56d5c",
-    "arm64": "3229b672985c431f273392635284d20d3c838c0b1d1b9ee9dc3be368fcc55d0e"
+    "x64": "444bbd0241ecc2f333aaf13b018c3a19e10daff04d6d8d4a347190ff2174af9a",
+    "arm64": "6ac86cc1434ad97b47197ceec43be28f4f172d041b13b0ec005f2b502736d5ec"
   },
-  "publishedAt": "2026-11-25"
+  "publishedAt": "2026-11-26"
 }
